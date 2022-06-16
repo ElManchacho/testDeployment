@@ -1,0 +1,5 @@
+// Installed modules
+/node_modules
+
+// Auto-genreated from npm install (which runs in installer.sh script)
+package-lock.json
