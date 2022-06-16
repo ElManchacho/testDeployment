@@ -1,0 +1,10 @@
+{
+    "name":"node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "privvate":"true",
+    "dependencies": {
+        "node-red-contrib-azure-iot-hub":"^0.4.0",
+        "node-red-contrib-azure-iot-hub-send-c2d":"^0.0.2"
+    }
+}
