@@ -18,4 +18,4 @@ apt-get install -y nodejs npm
 
 npm install
 
-node main.js
+node main2.js
